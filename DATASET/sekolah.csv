@@ -1,0 +1,141 @@
+_id,idx,vervar,var,tahun,variable,value
+1,0,ACEH,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.85
+2,1,SUMATERA UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.49
+3,2,SUMATERA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.5
+4,3,RIAU,Angka Partisipasi Sekolah (APS)  ,2017,SD,98.98
+5,4,JAMBI,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.59
+6,5,SUMATERA SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.63
+7,6,BENGKULU,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.8
+8,7,LAMPUNG,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.78
+9,8,KEP. BANGKA BELITUNG,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.64
+10,9,KEP. RIAU,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.32
+11,10,DKI JAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.67
+12,11,JAWA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.51
+13,12,JAWA TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.62
+14,13,DI YOGYAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,SD,
+15,14,JAWA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.57
+16,15,BANTEN,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.31
+17,16,BALI,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.44
+18,17,NUSA TENGGARA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.43
+19,18,NUSA TENGGARA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SD,98.27
+20,19,KALIMANTAN BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SD,98.44
+21,20,KALIMANTAN TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.5
+22,21,KALIMANTAN SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.55
+23,22,KALIMANTAN TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.67
+24,23,KALIMANTAN UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SD,98.34
+25,24,SULAWESI UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.37
+26,25,SULAWESI TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SD,98.15
+27,26,SULAWESI SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.16
+28,27,SULAWESI TENGGARA,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.32
+29,28,GORONTALO,Angka Partisipasi Sekolah (APS)  ,2017,SD,98.76
+30,29,SULAWESI BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SD,98.1
+31,30,MALUKU,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.72
+32,31,MALUKU UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SD,99.19
+33,32,PAPUA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SD,97.27
+34,33,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,SD,81.8
+35,34,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,SD,81.8
+36,35,ACEH,Angka Partisipasi Sekolah (APS)  ,2017,SMP,98.09
+37,36,SUMATERA UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,96.6
+38,37,SUMATERA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMP,96.29
+39,38,RIAU,Angka Partisipasi Sekolah (APS)  ,2017,SMP,94.73
+40,39,JAMBI,Angka Partisipasi Sekolah (APS)  ,2017,SMP,95.89
+41,40,SUMATERA SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SMP,94.01
+42,41,BENGKULU,Angka Partisipasi Sekolah (APS)  ,2017,SMP,97.2
+43,42,LAMPUNG,Angka Partisipasi Sekolah (APS)  ,2017,SMP,94.76
+44,43,KEP. BANGKA BELITUNG,Angka Partisipasi Sekolah (APS)  ,2017,SMP,92.41
+45,44,KEP. RIAU,Angka Partisipasi Sekolah (APS)  ,2017,SMP,99.08
+46,45,DKI JAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,97.64
+47,46,JAWA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMP,93.77
+48,47,JAWA TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SMP,95.48
+49,48,DI YOGYAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,99.63
+50,49,JAWA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SMP,96.77
+51,50,BANTEN,Angka Partisipasi Sekolah (APS)  ,2017,SMP,95.67
+52,51,BALI,Angka Partisipasi Sekolah (APS)  ,2017,SMP,97.72
+53,52,NUSA TENGGARA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMP,97.69
+54,53,NUSA TENGGARA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SMP,94.76
+55,54,KALIMANTAN BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMP,92.51
+56,55,KALIMANTAN TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SMP,93.37
+57,56,KALIMANTAN SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SMP,92.33
+58,57,KALIMANTAN TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SMP,98.79
+59,58,KALIMANTAN UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,96.04
+60,59,SULAWESI UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,94.91
+61,60,SULAWESI TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SMP,92.41
+62,61,SULAWESI SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SMP,93.09
+63,62,SULAWESI TENGGARA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,94.08
+64,63,GORONTALO,Angka Partisipasi Sekolah (APS)  ,2017,SMP,91.23
+65,64,SULAWESI BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMP,89.88
+66,65,MALUKU,Angka Partisipasi Sekolah (APS)  ,2017,SMP,96.86
+67,66,MALUKU UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,97.24
+68,67,PAPUA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMP,96.92
+69,68,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,79.09
+70,69,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,SMP,79.09
+71,70,ACEH,Angka Partisipasi Sekolah (APS)  ,2017,SMA,82.15
+72,71,SUMATERA UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,76.76
+73,72,SUMATERA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMA,82.86
+74,73,RIAU,Angka Partisipasi Sekolah (APS)  ,2017,SMA,76.52
+75,74,JAMBI,Angka Partisipasi Sekolah (APS)  ,2017,SMA,71.54
+76,75,SUMATERA SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SMA,69.05
+77,76,BENGKULU,Angka Partisipasi Sekolah (APS)  ,2017,SMA,79.07
+78,77,LAMPUNG,Angka Partisipasi Sekolah (APS)  ,2017,SMA,70.03
+79,78,KEP. BANGKA BELITUNG,Angka Partisipasi Sekolah (APS)  ,2017,SMA,-
+80,79,KEP. RIAU,Angka Partisipasi Sekolah (APS)  ,2017,SMA,82.8
+81,80,DKI JAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,71.5
+82,81,JAWA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMA,66.62
+83,82,JAWA TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SMA,68.48
+84,83,DI YOGYAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,87.61
+85,84,JAWA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SMA,71.51
+86,85,BANTEN,Angka Partisipasi Sekolah (APS)  ,2017,SMA,67.77
+87,86,BALI,Angka Partisipasi Sekolah (APS)  ,2017,SMA,82.16
+88,87,NUSA TENGGARA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMA,76.61
+89,88,NUSA TENGGARA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SMA,74.65
+90,89,KALIMANTAN BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMA,67.53
+91,90,KALIMANTAN TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SMA,66.62
+92,91,KALIMANTAN SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SMA,-
+93,92,KALIMANTAN TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,SMA,81.32
+94,93,KALIMANTAN UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,75.12
+95,94,SULAWESI UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,73.04
+96,95,SULAWESI TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,SMA,74.87
+97,96,SULAWESI SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,SMA,70.6
+98,97,SULAWESI TENGGARA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,72.94
+99,98,GORONTALO,Angka Partisipasi Sekolah (APS)  ,2017,SMA,69.86
+100,99,SULAWESI BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMA,68.03
+101,100,MALUKU,Angka Partisipasi Sekolah (APS)  ,2017,SMA,79.08
+102,101,MALUKU UTARA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,76.06
+103,102,PAPUA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,SMA,80.6
+104,103,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,63.35
+105,104,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,SMA,63.35
+106,105,ACEH,Angka Partisipasi Sekolah (APS)  ,2017,PT,34.28
+107,106,SUMATERA UTARA,Angka Partisipasi Sekolah (APS)  ,2017,PT,26.8
+108,107,SUMATERA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,PT,35.45
+109,108,RIAU,Angka Partisipasi Sekolah (APS)  ,2017,PT,27.28
+110,109,JAMBI,Angka Partisipasi Sekolah (APS)  ,2017,PT,24.12
+111,110,SUMATERA SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,PT,19.17
+112,111,BENGKULU,Angka Partisipasi Sekolah (APS)  ,2017,PT,29.9
+113,112,LAMPUNG,Angka Partisipasi Sekolah (APS)  ,2017,PT,20.96
+114,113,KEP. BANGKA BELITUNG,Angka Partisipasi Sekolah (APS)  ,2017,PT,14.99
+115,114,KEP. RIAU,Angka Partisipasi Sekolah (APS)  ,2017,PT,19.13
+116,115,DKI JAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,PT,24.6
+117,116,JAWA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,PT,21.5
+118,117,JAWA TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,PT,22.13
+119,118,DI YOGYAKARTA,Angka Partisipasi Sekolah (APS)  ,2017,PT,51.33
+120,119,JAWA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,PT,23.34
+121,120,BANTEN,Angka Partisipasi Sekolah (APS)  ,2017,PT,21.33
+122,121,BALI,Angka Partisipasi Sekolah (APS)  ,2017,PT,26.56
+123,122,NUSA TENGGARA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,PT,28.52
+124,123,NUSA TENGGARA TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,PT,27.8
+125,124,KALIMANTAN BARAT,Angka Partisipasi Sekolah (APS)  ,2017,PT,25.8
+126,125,KALIMANTAN TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,PT,24.15
+127,126,KALIMANTAN SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,PT,23.53
+128,127,KALIMANTAN TIMUR,Angka Partisipasi Sekolah (APS)  ,2017,PT,30.04
+129,128,KALIMANTAN UTARA,Angka Partisipasi Sekolah (APS)  ,2017,PT,20.72
+130,129,SULAWESI UTARA,Angka Partisipasi Sekolah (APS)  ,2017,PT,24.22
+131,130,SULAWESI TENGAH,Angka Partisipasi Sekolah (APS)  ,2017,PT,26.31
+132,131,SULAWESI SELATAN,Angka Partisipasi Sekolah (APS)  ,2017,PT,32.16
+133,132,SULAWESI TENGGARA,Angka Partisipasi Sekolah (APS)  ,2017,PT,30.03
+134,133,GORONTALO,Angka Partisipasi Sekolah (APS)  ,2017,PT,29.21
+135,134,SULAWESI BARAT,Angka Partisipasi Sekolah (APS)  ,2017,PT,23.49
+136,135,MALUKU,Angka Partisipasi Sekolah (APS)  ,2017,PT,38.2
+137,136,MALUKU UTARA,Angka Partisipasi Sekolah (APS)  ,2017,PT,32.1
+138,137,PAPUA BARAT,Angka Partisipasi Sekolah (APS)  ,2017,PT,31.92
+139,138,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,PT,24.57
+140,139,PAPUA,Angka Partisipasi Sekolah (APS)  ,2017,PT,24.57
